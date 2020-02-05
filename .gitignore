@@ -1,0 +1,3 @@
+# ignore credential files
+credentials.py
+instagram_credentials.py
